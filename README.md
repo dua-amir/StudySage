@@ -81,7 +81,7 @@ studysage/
 ## ⚙️ Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/your-username/StudySage.git
+git clone https://github.com/dua-amir/StudySage.git
 cd StudySage
 
 Install Dependencies
