@@ -1,0 +1,84 @@
+SAVED NOTES:
+
+📝 what is machine learning:
+Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalise to unseen data, and thus perform tasks without explicit instructions. Within a subdiscipline in machine learning, advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.
+ML finds application in many fields, including natural language processing, computer vision, speech recognition, email filtering, agriculture, and medicine.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Machine_learning
+In-depth: https://en.wikipedia.org/wiki/Quantum_machine_learning
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=ukzFI9rgwfU
+In-depth: https://www.youtube.com/watch?v=9gGnTQTYNaE
+
+--------------------------------------------------
+
+📝 what is artificial intelligence:
+Artificial intelligence (AI) refers to the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Artificial_intelligence
+In-depth: https://en.wikipedia.org/wiki/Artificial_general_intelligence
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=ad79nYk2keg
+In-depth: https://www.youtube.com/watch?v=oV74Najm6Nc
+
+--------------------------------------------------
+
+📝 what is chemistry:
+Chemistry is the scientific study of the properties and behavior of matter. It is a physical science within the natural sciences that studies the chemical elements that make up matter and compounds made of atoms, molecules and ions: their composition, structure, properties, behavior and the changes they undergo during reactions with other substances. Chemistry also addresses the nature of chemical bonds in chemical compounds.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Chemistry
+In-depth: https://en.wikipedia.org/wiki/Outline_of_chemistry
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=t8x3wdXZGEY
+In-depth: https://www.youtube.com/watch?v=s9_MKmoh6UE
+
+--------------------------------------------------
+
+📝 what is data science:
+Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. 
+Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine). Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Data_science
+In-depth: https://en.wikipedia.org/wiki/Category:Data_science
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=JL_grPUnXzY
+In-depth: https://www.youtube.com/watch?v=xN6dbHSbohk
+
+--------------------------------------------------
+
+📝 what is data science:
+Data science is an interdisciplinary academic field that uses statistics, scientific computing, scientific methods, processing, scientific visualization, algorithms and systems to extract or extrapolate knowledge from potentially noisy, structured, or unstructured data. 
+Data science also integrates domain knowledge from the underlying application domain (e.g., natural sciences, information technology, and medicine). Data science is multifaceted and can be described as a science, a research paradigm, a research method, a discipline, a workflow, and a profession.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Data_science
+In-depth: https://en.wikipedia.org/wiki/Category:Data_science
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=JL_grPUnXzY
+In-depth: https://www.youtube.com/watch?v=xN6dbHSbohk
+
+--------------------------------------------------
+
+📝 what is machine learning :
+Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalise to unseen data, and thus perform tasks without explicit instructions. Within a subdiscipline in machine learning, advances in the field of deep learning have allowed neural networks, a class of statistical algorithms, to surpass many previous machine learning approaches in performance.
+ML finds application in many fields, including natural language processing, computer vision, speech recognition, email filtering, agriculture, and medicine.
+
+📚 Articles:
+Basic: https://en.wikipedia.org/wiki/Machine_learning
+In-depth: https://en.wikipedia.org/wiki/Quantum_machine_learning
+
+🎥 Videos:
+Basic: https://www.youtube.com/watch?v=cfSDvPlFFVQ
+In-depth: https://www.youtube.com/watch?v=9gGnTQTYNaE
+
+--------------------------------------------------
+
